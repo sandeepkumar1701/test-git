@@ -1,1 +1,3 @@
 file8.txt line 1
+file8.txt line 2
+file8.txt line 3
