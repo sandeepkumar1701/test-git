@@ -1,1 +1,3 @@
 file5 line 1
+file5 line2
+file5 line3
